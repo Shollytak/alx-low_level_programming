@@ -4,16 +4,8 @@
 int main(int argc, char *argv[])
 
 {
-	int a;
-	printf("argc = %d\n", argc);
+	argv; /*Ignore argv*/
+	printf("%d\n", argc - 1);
 
-	if( a >  argc)
-
-	{
-	for (a = 1; a > argc; a++)
-	{
-		printf("argv[%d] = %s\n", a, argv[a]);
-	}
-	}
 	return (0);
 }
