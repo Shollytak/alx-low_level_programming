@@ -8,8 +8,9 @@ int main(int argc, char *argv[])
 	printf("argc = %d\n", argc);
 
 	if( a >  argc)
+
 	{
-	for (a = 0; a > argc; a++)
+	for (a = 1; a > argc; a++)
 	{
 		printf("argv[%d] = %s\n", a, argv[a]);
 	}
