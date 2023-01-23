@@ -1,20 +1,3 @@
-
-Sirtuns4real
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x0C-more_malloc_free/101-mul.c
-@Sirtuns4real
-Sirtuns4real ADV Task 2
- 1 contributor
-152 lines (132 sloc)  2.44 KB
 #include <stdio.h>
 #include "main.h"
 #include <stdlib.h>
